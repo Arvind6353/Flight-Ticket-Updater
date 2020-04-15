@@ -1,11 +1,13 @@
 FLIGHT TICKET UPGRADER 
 
+Install Dependencies
 npm install
 
-Run npm start to run the app
+Run App
+npm start
 
 Modify the input and ouput file names in src/constants.js 
 
 
 UNIT TEST
-Run npm run test to run unit test cases to test the rules
+npm run test
