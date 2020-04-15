@@ -1,0 +1,13 @@
+Please refer Readme file for the steps to run the application.
+
+
+Application Logic below:
+1) readFile
+2) csv to json
+3) process each record
+4) apply validation
+5) format data
+6) get valid and invalid array
+7) convert json to csv and write success file and error file
+
+
